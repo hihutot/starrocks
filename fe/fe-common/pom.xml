@@ -47,7 +47,6 @@ under the License.
                 <version>3.1.1</version>
                 <dependencies>
                     <dependency>
-                        <groupId>com.puppycrawl.tools</groupId>
                         <artifactId>checkstyle</artifactId>
                         <version>8.40</version>
                     </dependency>
